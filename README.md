@@ -1,7 +1,7 @@
-# PDSR
 ## Code used for the results in the paper (A Pseudo-Dual Self-Rectification Framework for Semantic Segmentation)[https://ieeexplore.ieee.org/abstract/document/10219865/]
 
-Download the data (VOC, Cityscapes) and pre-trained ResNet models from OneDrive link: (city)[https://www.cityscapes-dataset.com/],(voc)[http://host.robots.ox.ac.uk/pascal/VOC/voc2012/]
+Download the data (VOC, Cityscapes) and pre-trained ResNet models from OneDrive link: (city)[https://www.cityscapes-dataset.com/]
+(voc)[http://host.robots.ox.ac.uk/pascal/VOC/voc2012/]
 
 # RUN
 ## example
